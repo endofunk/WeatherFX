@@ -1,0 +1,5 @@
+**** Extended Seven Day Forecast
+https://weather.cit.api.here.com/weather/1.0/report.json?product=forecast_7days&name=Rustenburg&app_id=f3rkzpvHW9VB6Rdbk02U&app_code=3SHogIZBQP80wy5jeT8cgA
+
+**** Sunrise and Sunset
+https://weather.cit.api.here.com/weather/1.0/report.json?product=forecast_astronomy&name=Rustenburg&app_id=f3rkzpvHW9VB6Rdbk02U&app_code=3SHogIZBQP80wy5jeT8cgA

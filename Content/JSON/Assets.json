@@ -1,0 +1,39 @@
+﻿{
+  "Fonts": [
+    { "Id": "9", "AssetName": "Font9" },
+    { "Id": "10", "AssetName": "Font10" },
+    { "Id": "12", "AssetName": "Font12" },
+    { "Id": "13", "AssetName": "Font13" },
+    { "Id": "14", "AssetName": "Font14" },
+    { "Id": "15", "AssetName": "Font15" },
+    { "Id": "20", "AssetName": "Font20" },
+    { "Id": "30", "AssetName": "Font30" },
+    { "Id": "50", "AssetName": "Font50" },
+    { "Id": "70", "AssetName": "Font70" },
+    { "Id": "80", "AssetName": "Font80" },
+    { "Id": "90", "AssetName": "Font90" },
+    { "Id": "100", "AssetName": "Font100" },
+    { "Id": "120", "AssetName": "Font120" }
+  ],
+  "Textures": [
+    { "Id": "Cloud", "AssetName": "Images/Cloud" },
+    { "Id": "Day", "AssetName": "Images/Day" },
+    { "Id": "Moon", "AssetName": "Images/Moon" },
+    { "Id": "Night", "AssetName": "Images/Night" },
+    { "Id": "Symbol", "AssetName": "Images/Symbol" },
+    { "Id": "Wind", "AssetName": "Images/Wind" }, 
+    { "Id": "Menu", "AssetName":  "Images/Menu" }, 
+    { "Id": "MidTerm", "AssetName":  "Images/MidTerm" },
+    { "Id": "Endofunk", "AssetName": "Images/Endofunk" },
+    { "Id": "MetricImperial", "AssetName": "Images/MetricImperial" },
+    { "Id": "Checkbox", "AssetName": "Images/Checkbox" },
+    { "Id": "Textbox", "AssetName": "Images/Textbox" },
+    { "Id": "TitleBG", "AssetName": "Images/TitleBG" },
+    { "Id": "Compas", "AssetName": "Images/Compas" },
+    { "Id": "Loading", "AssetName": "Images/Loading" }
+  ],
+  "Sounds": [
+    { "Id": "Click1", "AssetName": "Sounds/Click1" },
+    { "Id": "Click2", "AssetName": "Sounds/Click2" }
+  ]
+}
