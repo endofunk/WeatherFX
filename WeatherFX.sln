@@ -3,12 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherFX", "WeatherFX.csproj", "{A9152C30-F2F5-4B2D-ACED-EAEC3CB62287}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Endofunk.Monogame.UI", "..\Monogame\Endofunk.Monogame.UI\Endofunk.Monogame.UI.csproj", "{E158F99F-FA5E-4FE7-91A3-0C7AE5C5EE95}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Endofunk.FX", "..\Functional\Endofunk-FX\Endofunk.FX.csproj", "{FDF8D6E7-F17D-4772-BF1E-E4ADF59A50FB}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Endofunk.FX.Net", "..\Functional\Endofunk-FX-Net\Endofunk.FX.Net.csproj", "{EE41437C-DCAC-43C5-AD3D-5F9B0545F406}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,17 +13,5 @@ Global
 		{A9152C30-F2F5-4B2D-ACED-EAEC3CB62287}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9152C30-F2F5-4B2D-ACED-EAEC3CB62287}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9152C30-F2F5-4B2D-ACED-EAEC3CB62287}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E158F99F-FA5E-4FE7-91A3-0C7AE5C5EE95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E158F99F-FA5E-4FE7-91A3-0C7AE5C5EE95}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E158F99F-FA5E-4FE7-91A3-0C7AE5C5EE95}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E158F99F-FA5E-4FE7-91A3-0C7AE5C5EE95}.Release|Any CPU.Build.0 = Release|Any CPU
-		{FDF8D6E7-F17D-4772-BF1E-E4ADF59A50FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FDF8D6E7-F17D-4772-BF1E-E4ADF59A50FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FDF8D6E7-F17D-4772-BF1E-E4ADF59A50FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FDF8D6E7-F17D-4772-BF1E-E4ADF59A50FB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EE41437C-DCAC-43C5-AD3D-5F9B0545F406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EE41437C-DCAC-43C5-AD3D-5F9B0545F406}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EE41437C-DCAC-43C5-AD3D-5F9B0545F406}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EE41437C-DCAC-43C5-AD3D-5F9B0545F406}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
